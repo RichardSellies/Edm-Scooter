@@ -1,0 +1,41 @@
+Gift them a little luxury
+
+Discover the BMW lifestyle collection
+
+View
+in the browser (#insertUrlLink)
+
+Unsubscribe
+(#insertUrlLink)
+
+GIFT THEM A LITTLE LUXURY.
+DISCOVER THE BMW LIFESTYLE COLLECTION.
+
+DEAR #CUSTOMER_NAME#
+Premium designs, quality materials and unmatched BMW style. It might seem hard to find a gift that ticks all the boxes… that is until you see the BMW Lifestyle Collection. From apparel to accessories, the latest range includes the perfect touch of luxury for the BMW enthusiast this holiday season.
+
+Learn More (#insertUrlLink)
+
+Explore collection (#insertUrlLink)
+
+Contact us (#insertUrlLink)
+
+To findyour perfect gift this Christmas, shop the BMW Lifestyle Collection at #DEALER_SENDER_NAME# today. Yours sincerely, #DEALER_SIGNATURE_FULL_NAME# #DEALER_SIGNATURE_POSITION# #DEALER_SENDER_NAME#
+
+FOLLOW US
+
+(#insertUrlLink)
+
+    (#insertUrlLink)
+
+    (#insertUrlLink)
+
+    (#insertUrlLink)
+
+&nbspPrivacy policy
+
+&nbspE-Mail unsubscribe
+
+&nbspVisit #DEALER_NAME#
+
+*Price includes GST. If you no longer own your BMW, please click here to notify us.
